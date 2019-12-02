@@ -1,0 +1,84 @@
+/* UTILITIES */
+.text-default {
+    color: #c3bedc;
+}
+
+.text-primary {
+    color: #1b55e3;
+}
+
+.text-secondary {
+    color: #6a7a84;
+}
+
+.text-success {
+    color: #46be8a;
+}
+
+.text-danger {
+    color: #fb434a;
+}
+
+.text-warning {
+    color: #f39834;
+}
+
+.text-info {
+    color: #0887c9;
+}
+
+.text-light {
+    color: #f2f4f8;
+}
+
+.text-dark {
+    color: #161537;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.text-muted {
+    color: #aca6cc !important;
+}
+
+.bg-default {
+    background-color: #c3bedc !important;
+}
+
+.bg-primary {
+    background-color: #1b55e3 !important;
+}
+
+.bg-secondary {
+    background-color: #1b55e3 !important;
+}
+
+.bg-success {
+    background-color: #46be8a !important;
+}
+
+.bg-danger {
+    background-color: #fb434a !important;
+}
+
+.bg-warning {
+    background-color: #f39834 !important;
+}
+
+.bg-info {
+    background-color: #0887c9 !important;
+}
+
+.bg-light {
+    background-color: #f2f4f8 !important;
+}
+
+.bg-dark {
+    background-color: #161537 !important;
+}
+
+.bg-white {
+    background-color: #fff !important;
+}
